@@ -154,10 +154,4 @@ This project focuses on detecting deepfake videos using deep learning techniques
 1. A. Rössler et al., “FaceForensics++,” ICCV, 2019.  
 2. Y. Li et al., “Celeb-DF,” CVPR, 2020.  
 3. Y. Mirsky and W. Lee, ACM Computing Surveys, 2021.  
-4. B. Dolhansky et al., “DFDC Dataset,” 2020.  
-5. M. S. Rana et al., IEEE Access, 2022.  
-6. B. Zi et al., “WildDeepfake,” ACM Multimedia, 2020.  
-7. A. Heidari et al., Wiley Reviews, 2023.  
-8. M.-H. Maras and A. Alexandrou, The Int. J. of Evidence & Proof, 2019.  
-9. S. Hussain et al., WACV, 2021.  
-10. L. Floridi, Philosophy & Technology, 2018.  
+
